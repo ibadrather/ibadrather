@@ -43,6 +43,8 @@ Here are some ideas to get you started:
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="75" height="75"/>  </a> 
   <a href="https://de.mathworks.com/products/matlab.html" target="_blank">  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="75" height="75"/>  </a> 
 
+</p>
+
 <!--
 add later
   
@@ -54,9 +56,6 @@ add later
 
 -->
 
-
-
-</p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibadrather&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="ibadrather" /></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibadrather&show_icons=true&theme=midnight-purple" alt="ibadrather" /></p>
