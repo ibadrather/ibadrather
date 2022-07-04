@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center"> Hi there 👋, I'm Ibad Rather </h1>
 
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/a8rlSHPozsTEuh1ibJ/giphy.gif" width="100"/>
+  <img src="https://media4.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="100"/>
 </div>
 
 
@@ -37,7 +37,6 @@ Here are some ideas to get you started:
   
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="75" height="75"/> </a> 
   <a href="https://git-scm.com/" target="_blank">  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="75" height="75"/>  </a> 
-  
   <a href="https://pytorch.org/" target="_blank">  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-plain-wordmark.svg" alt="PyTorch" width="75" height="75"/>  </a> 
   <a href="https://www.raspberrypi.org/" target="_blank">  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original-wordmark.svg" alt="Raspberry Pi" width="75" height="75"/>  </a> 
   <a href="" target="_blank">  <img src="" alt="Git" width="75" height="75"/>  </a> 
