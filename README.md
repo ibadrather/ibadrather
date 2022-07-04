@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center"> Hi there 👋, I'm Ibad Rather </h1>
 
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="250"/>
+  <img src="https://media4.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="350"/>
 </div>
 
 
