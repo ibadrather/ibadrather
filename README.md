@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there, I'm Ibad Rather/h1>
+<h1 align="center">Hi there, I'm Ibad Rather /h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibadrather&label=Profile%20views&color=0e75b6&style=flat" alt="ibadrather" /> </p>
 
 - 🔭 I’m currently working on **ReactJs**
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **Web Development projects**
 
-- 📫 How to reach me <a href="https://www.linkedin.com/in/jawed-ahmed-b70a75209/" target="_blank">LinkedIn</a>
+- 📫 How to reach me <a href="https://www.linkedin.com/in/ibad-rather/" target="_blank">LinkedIn</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
