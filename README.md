@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me <a href="https://www.linkedin.com/in/ibad-rather/" target="_blank">LinkedIn</a>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <p align="center">
   
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="75" height="75"/> </a> 
@@ -42,8 +42,6 @@ Here are some ideas to get you started:
   <a href="" target="_blank">  <img src="" alt="Git" width="75" height="75"/>  </a> 
   <a href="" target="_blank">  <img src="" alt="Git" width="75" height="75"/>  </a> 
   <a href="" target="_blank">  <img src="" alt="Git" width="75" height="75"/>  </a> 
-  
-  
 
 </p>
 
