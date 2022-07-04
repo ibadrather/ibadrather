@@ -18,11 +18,13 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there, I'm Ibad Rather </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibadrather&label=Profile%20views&color=0e75b6&style=flat" alt="ibadrather" /> </p>
 
-- 🔭 I’m currently working on **ReactJs**
+- 🔭 I’m currently working on **Digital Image Stabilisation, Data Science and Robotics**
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **Advanced Deep Learning**
 
-- 👯 I’m looking to collaborate on **Web Development projects**
+- 👯 I’m looking to collaborate on **Robotics and AI projects**
+
+- 💬 Ask me about **My Projects**
 
 - 📫 How to reach me <a href="https://www.linkedin.com/in/ibad-rather/" target="_blank">LinkedIn</a>
 
