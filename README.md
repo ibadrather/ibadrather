@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there, I'm Jawed Ahmed</h1>
+<h1 align="center">Hi there, I'm Ibad Rather/h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibadrather&label=Profile%20views&color=0e75b6&style=flat" alt="ibadrather" /> </p>
 
 - 🔭 I’m currently working on **ReactJs**
