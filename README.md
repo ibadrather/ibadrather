@@ -43,6 +43,11 @@ Here are some ideas to get you started:
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="75" height="75"/>  </a> 
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="75" height="75"/>  </a> 
   <a href="https://de.mathworks.com/products/matlab.html" target="_blank">  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="75" height="75"/>  </a> 
+  <a href="https://jupyter.org/" target="_blank">  <img src="https://github.com/ibadrather/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="75" height="75"/>  </a> 
+  <a href="https://opencv.org/" target="_blank">  <img src="https://github.com/ibadrather/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" alt="opencv" width="75" height="75"/>  </a> 
+  <a href="https://ubuntu.com/" target="_blank">  <img src="https://github.com/ibadrather/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="75" height="75"/>  </a> 
+  <a href="https://www.tensorflow.org/" target="_blank">  <img src="https://github.com/ibadrather/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="tensorflow" width="75" height="75"/>  </a> 
+  <a href="https://www.linux.org/" target="_blank">  <img src="https://github.com/ibadrather/devicon/blob/master/icons/linux/linux-plain.svg" alt="linux" width="75" height="75"/>  </a> 
 
 </p>
 
