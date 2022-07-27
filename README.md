@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <p align="center">
   
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="75" height="75"/> </a> 
-  <a href=https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/ibadrather/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="75" height="75"/> </a> 
+  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/ibadrather/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="75" height="75"/> </a> 
   <a href="https://git-scm.com/" target="_blank">  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="75" height="75"/>  </a> 
   <a href="https://pytorch.org/" target="_blank">  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-plain-wordmark.svg" alt="PyTorch" width="75" height="75"/>  </a> 
   <a href="https://www.raspberrypi.org/" target="_blank">  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original-wordmark.svg" alt="Raspberry Pi" width="75" height="75"/>  </a> 
