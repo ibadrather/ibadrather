@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </div>
 
 
-- 🔭 I’m currently working on **Digital Image Stabilisation, Data Science and Robotics**
+- 🔭 I’m currently working on **Digital Image Stabilisation, Deep Learning and Robotics**
 
 - 🌱 I’m currently learning **Advanced Deep Learning**
 
