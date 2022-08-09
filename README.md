@@ -48,6 +48,8 @@ Here are some ideas to get you started:
   <a href="https://ubuntu.com/" target="_blank">  <img src="https://github.com/ibadrather/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="75" height="75"/>  </a> 
   <a href="https://www.tensorflow.org/" target="_blank">  <img src="https://github.com/ibadrather/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="tensorflow" width="75" height="75"/>  </a> 
   <a href="https://www.linux.org/" target="_blank">  <img src="https://github.com/ibadrather/devicon/blob/master/icons/linux/linux-plain.svg" alt="linux" width="75" height="75"/>  </a> 
+  <a href="https://www.ros.org/" target="_blank"> <img src="https://github.com/ibadrather/devicon/blob/master/icons/ros/ros-black-wordmark.svg" alt="ros" width="75" height="75"/> </a> 
+  <a href="https://docs.ros.org/en/foxy/index.html" target="_blank">  <img src="https://github.com/ibadrather/devicon/blob/master/icons/ros2/ros2-original-wordmark.svg" alt="ros2" width="75" height="75"/>  </a> 
 
 </p>
 
