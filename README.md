@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 - My portfolio: <a href="https://ibadrather.github.io/" target="_blank">Portfolio</a>
 
+- [My portfolio](https://ibadrather.github.io/){:target="_blank"}
+
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="center">
