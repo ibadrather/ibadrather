@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me <a href="https://www.linkedin.com/in/ibad-rather/" target="_blank">LinkedIn</a>
 
-- My portfolio: <a href="<a href="https://ibadrather.github.io/" target="_blank">Portfolio</a>
+- My portfolio: <a href="https://ibadrather.github.io/" target="_blank">Portfolio</a>
 
 
 <h2 align="left">Languages and Tools:</h2>
