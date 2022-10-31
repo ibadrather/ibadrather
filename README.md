@@ -20,6 +20,8 @@ Here are some ideas to get you started:
   <img src="https://media4.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="350"/>
 </div>
 
+- [Click here to visit my website!](https://ibadrather-appfolio-home-z35i34.streamlitapp.com/)
+
 
 - 🔭 I’m currently working on **Digital Image Stabilisation, Deep Learning and Robotics**
 
@@ -30,8 +32,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about **My Projects**
 
 - 📫 How to reach me <a href="https://www.linkedin.com/in/ibad-rather/" target="_blank">LinkedIn</a>
-
-- <a href="https://ibadrather.github.io/" target="_blank">My portfolio</a>
 
 
 <h2 align="left">Languages and Tools:</h2>
