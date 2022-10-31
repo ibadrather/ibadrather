@@ -35,7 +35,6 @@
   <a href="https://www.linux.org/" target="_blank">  <img src="https://github.com/ibadrather/devicon/blob/master/icons/linux/linux-plain.svg" alt="linux" width="75" height="75"/>  </a> 
   <a href="https://www.ros.org/" target="_blank"> <img src="https://github.com/ibadrather/devicon/blob/master/icons/ros/ros-black-wordmark.svg" alt="ros" width="75" height="75"/> </a> 
   <a href="https://docs.ros.org/en/foxy/index.html" target="_blank">  <img src="https://github.com/ibadrather/devicon/blob/master/icons/ros2/ros2-original-wordmark.svg" alt="ros2" width="75" height="75"/>  </a> 
-  
   <a href="https://fastapi.tiangolo.com/" target="_blank">  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" alt="FastAPI" width="75" height="75"/>  </a> 
 
 </p>
