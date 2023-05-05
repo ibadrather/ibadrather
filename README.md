@@ -6,7 +6,7 @@
 
 - 🌐 [Click here to visit my website!](https://ibadrather-appfolio-home-z35i34.streamlitapp.com/)
 
-- 🔭 I’m currently working on **Digital Image Stabilisation, Deep Learning and Robotics**
+- 🔭 I’m currently working on **Computer Vision, Deep Learning and Deployment**
 
 - 🌱 I’m currently learning **Advanced Deep Learning**
 
