@@ -4,7 +4,7 @@
   <img src="https://media4.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="350"/>
 </div>
 
-- 🌐 [Click here to visit my website!](https://ibadrather-appfolio-home-z35i34.streamlitapp.com/)
+- 🌐 [Click here to visit my website!]([https://ibadrather-appfolio-home-z35i34.streamlitapp.com/](https://ibadrather-appfolio-main-zx8dt2.streamlit.app/))
 
 - 🔭 I’m currently working on **Computer Vision, Deep Learning and Deployment**
 
