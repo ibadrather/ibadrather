@@ -6,9 +6,9 @@
 
 - 🌐 [Click here to visit my website!](https://ibadrather-appfolio-main-zx8dt2.streamlit.app/)
 
-- 🔭 I’m currently working on **Computer Vision, Deep Learning and Deployment**
+- 🔭 I’m currently working on underwater "sattelite" for Comprehensive Ocean Mapping @ PlanBlue GmbH
 
-- 🌱 I’m currently learning **Advanced Deep Learning**
+- 🌱 I’m currently learning **Computer Vision** and **Advanced Deep Learning**
 
 - 👯 I’m looking to collaborate on **Robotics and AI projects**
 
