@@ -4,8 +4,6 @@
   <img src="https://media4.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="350"/>
 </div>
 
-- 🌐 [Click here to visit my website!](https://ibadrather-appfolio-main-zx8dt2.streamlit.app/)
-
 - 🔭 I’m currently working on underwater "sattelite" for Comprehensive Ocean Mapping @ PlanBlue GmbH
 
 - 🌱 I’m currently learning **Computer Vision** and **Advanced Deep Learning**
