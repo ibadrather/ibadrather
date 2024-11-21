@@ -6,11 +6,10 @@
 
 - 🔭 I’m currently working on underwater Recording Systems for Comprehensive Ocean Mapping @ PlanBlue GmbH
 
-- 🌱 I’m currently learning **Computer Vision** and **Advanced Deep Learning**
+- 🌱 I’m currently learning **Reinforcement Learning**, **Robotics** and **Computer Vision**
 
 - 👯 I’m looking to collaborate on **Robotics and AI projects**
 
-- 💬 Ask me about **My Projects**
 
 - 📫 How to reach me <a href="https://www.linkedin.com/in/ibad-rather/" target="_blank">LinkedIn</a>
 
