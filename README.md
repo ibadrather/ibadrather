@@ -4,11 +4,13 @@
   <img src="https://media4.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="350"/>
 </div>
 
-- 🔭 I’m currently working on underwater Recording Systems for Comprehensive Ocean Mapping @ PlanBlue GmbH
+I am an engineer and problem-solver with a strong focus on **Robotics**, **Artificial Intelligence**, and **Computer Vision**. My experience spans a broad spectrum of projects—from capturing marine data and automating image analysis workflows, to enhancing precision in surgical microscopy using robotics and AI-driven computer vision. Leveraging a comprehensive technical skill set that covers everything from low-level hardware integration to high-level software design and cloud services, I strive to develop scalable, efficient, and innovative solutions.
 
-- 🌱 I’m currently learning **Reinforcement Learning**, **Robotics** and **Computer Vision**
+- 🔭 I’m currently working on underwater recording systems for comprehensive ocean mapping at [PlanBlue GmbH](https://planblue.com/)
 
-- 👯 I’m looking to collaborate on **Robotics and AI projects**
+- 🌱 I’m currently learning **Reinforcement Learning**, **Robotics**, and **Computer Vision**
+
+- 👯 I’m looking to collaborate on **Robotics and Reinforcement Learning projects**
 
 
 - 📫 How to reach me <a href="https://www.linkedin.com/in/ibad-rather/" target="_blank">LinkedIn</a>
