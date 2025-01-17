@@ -8,7 +8,7 @@ I am an engineer and problem-solver with a strong focus on **Robotics**, **Artif
 
 - 🔭 I’m currently working on underwater recording systems for comprehensive ocean mapping at [PlanBlue GmbH](https://planblue.com/)
 
-- 🌱 I’m currently learning **Reinforcement Learning**, **Robotics**, and **Computer Vision**
+- 🌱 I’m currently working on  **Deep Learning**, **Reinforcement Learning**, **Robotics**, and **Computer Vision**
 
 - 👯 I’m looking to collaborate on **Robotics and Reinforcement Learning projects**
 
