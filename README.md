@@ -4,17 +4,25 @@
   <img src="https://media4.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="350"/>
 </div>
 
-I am an engineer and problem-solver with a strong focus on **Computer Vision**, **Robotics** and **Deep Learning**. My experience spans a broad spectrum of projects—from capturing Seafloor Data, data, working on Robots, Simulations, to enhancing precision in surgical microscopy using robotics and deep computer vision. Leveraging a comprehensive technical skill set that covers everything from low-level hardware integration to high-level software design and cloud services, I strive to develop scalable, efficient, and innovative solutions. I am also an engineer with initiative, leadership and project management skills.
-
-- 🔭 I’m currently working on underwater recording systems for comprehensive ocean mapping at [PlanBlue GmbH](https://planblue.com/) and also on Reinforcement Learning and Robotics projects on my own.
-
-- 🌱 I’m currently working on  problems in **Computer Vision** and **Robotics** domain.
-
-- 👯 I’m looking to collaborate on **Robotics and Reinforcement Learning projects**
-
 I am an engineer and problem-solver with a passion for Computer Vision, Deep Learning and Robotics. My professional journey has allowed me to work across diverse and impactful projects, from capturing seafloor data and developing underwater recording systems for ocean mapping to enhancing surgical microscopy through robotics and advanced computer vision techniques.
 
 With a strong focus on software development, I specialize in designing scalable and efficient solutions for complex problems. My technical experience spans machine learning, robotic systems, and software architecture. Alongside my technical skills, I bring initiative, leadership, and project management capabilities to drive projects to successful outcomes. I also enjoy sharing knowledge and have a passion for teaching.
+
+### 🔭 What I’m Working On 
+ 
+- **Underwater Mapping Systems:**  Developing advanced recording systems at [PlanBlue GmbH](https://planblue.com/)  for comprehensive ocean mapping.
+ 
+- **Reinforcement Learning & Robotics:**  Exploring personal projects in robotics and advanced reinforcement learning algorithms.
+
+### 🌱 What I’m Learning 
+
+I’m currently focusing on:
+ 
+- Advanced **Robotics**  and control systems.
+ 
+- Scaling and optimizing **Reinforcement Learning**  for real-world challenges.
+ 
+- Enhancing **Computer Vision**  techniques for complex perception tasks.
 
 - 📫 How to reach me <a href="https://www.linkedin.com/in/ibad-rather/" target="_blank">LinkedIn</a>
 
